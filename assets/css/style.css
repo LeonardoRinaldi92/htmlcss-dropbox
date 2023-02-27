@@ -15,6 +15,10 @@
     font-weight: bold;
 }
 
+.wrap {
+    flex-wrap: wrap;
+}
+
 .background-white {
     background-color: white;
 }

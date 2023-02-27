@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+.column {
+    flex-direction: column;
+}
+
+.obj-cover {
+    object-fit: cover;
+}
+
 .scroll-smooth {
     scroll-behavior: smooth;
 }
@@ -116,6 +124,10 @@
     width: 100%;
 }
 
+.flex-basis-70 {
+    flex-basis: 70%;
+}
+
 .width10 {
     width: 10%;
 }
@@ -158,6 +170,9 @@
 
 .flex {
     display: flex;
+}
+.v-a-middle {
+    vertical-align: middle;
 }
 
 .jst-spcaround {
