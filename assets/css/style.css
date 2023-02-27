@@ -3,8 +3,15 @@
     font-weight: bold;
 }
 
+
 .fixed-position {
     width: 100%;
+    top: 0;
+    z-index: 999;
+}
+
+.bolder {
+    font-weight: bolder;
 }
 
 .background-white {
@@ -23,6 +30,14 @@
     color: rgb(83,83,83);
 }
 
+.m-r20{
+    margin-right: 20%;
+}
+
+.pd-top150 {
+    padding-top: 150px;
+}
+
 .pd-25-20 {
     padding: 25px 20px
 }
@@ -31,8 +46,12 @@
     padding: 10px 20px;
 }
 
-.h100vh {
-    height: 100vh;
+.h90vh {
+    height: 90vh;
+}
+
+.width65 {
+    width: 65%;
 }
 
 
