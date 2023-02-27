@@ -4,8 +4,6 @@
     
 }
 
-
-
 .fixed-position {
     width: 100%;
     top: 0;
@@ -24,7 +22,13 @@
     padding-top: 150px;
 }
 
+.stretch {
+    align-items: stretch;
+}
 
+.al-items-start{
+    align-items: flex-start;
+}
 
 .background-white {
     background-color: white;
