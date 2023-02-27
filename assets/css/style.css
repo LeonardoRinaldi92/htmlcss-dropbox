@@ -1,4 +1,32 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.fixed-position {
+    width: 100%;
+}
 
 .background-white {
     background-color: white;
+}
+
+.background-blue {
+    background-color: rgb(0,97,255);
+}
+
+.txt-grey {
+    color: rgb(83,83,83);
+}
+
+.mr-30-20 {
+    margin: 30px 20px
+}
+
+.padd10 {
+    padding: 10px 20px;
+}
+
+.underline-black:hover{
+    border-bottom: 2px solid black;
 }
