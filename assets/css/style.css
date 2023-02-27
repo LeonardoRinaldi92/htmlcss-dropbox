@@ -1,6 +1,7 @@
 * {
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
+    line-height: 140%;
 }
 
 
@@ -10,8 +11,8 @@
     z-index: 999;
 }
 
-.bolder {
-    font-weight: bolder;
+.bold {
+    font-weight: bold;
 }
 
 .background-white {
