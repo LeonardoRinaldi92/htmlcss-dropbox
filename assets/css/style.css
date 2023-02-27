@@ -1,8 +1,9 @@
 * {
     font-family: 'Roboto', sans-serif;
-    font-weight: bold;
     line-height: 140%;
+    
 }
+
 
 
 .fixed-position {
@@ -19,6 +20,10 @@
     flex-wrap: wrap;
 }
 
+.padd-top150 {
+    padding-top: 150px;
+}
+
 
 
 .background-white {
@@ -31,6 +36,14 @@
 
 .background-sky {
     background-color: rgb(180,208,231);
+}
+
+.txt-blu {
+    color: blue;
+}
+
+.txt-blu2 {
+    color:  rgb(0,97,255);
 }
 
 .txt-grey {
@@ -64,7 +77,14 @@
     width: 65%;
 }
 
+.bord-1 {
+    border: 1px solid rgb(223,223,225);
+}
 
+.bord-2 {
+    border-bottom: 1px solid rgb(223,223,225);
+
+}
 
 .underline-black:hover{
     border-bottom: 2px solid black;
