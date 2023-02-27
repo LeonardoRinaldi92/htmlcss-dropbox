@@ -15,18 +15,32 @@
     background-color: rgb(0,97,255);
 }
 
+.background-sky {
+    background-color: rgb(180,208,231);
+}
+
 .txt-grey {
     color: rgb(83,83,83);
 }
 
-.mr-30-20 {
-    margin: 30px 20px
+.pd-25-20 {
+    padding: 25px 20px
 }
 
 .padd10 {
     padding: 10px 20px;
 }
 
+.h100vh {
+    height: 100vh;
+}
+
+
+
 .underline-black:hover{
     border-bottom: 2px solid black;
+}
+
+.button-opacity:hover {
+    opacity: 70%;
 }
