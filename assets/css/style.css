@@ -1,7 +1,7 @@
 * {
     font-family: 'Roboto', sans-serif;
     line-height: 130%;
-    
+    scroll-behavior: smooth;
 }
 
 .fixed-position {
@@ -87,7 +87,10 @@
 
 .bord-2 {
     border-bottom: 1px solid rgb(223,223,225);
+}
 
+.bord-3 {
+    border: 1px solid black;
 }
 
 .underline-black:hover{
