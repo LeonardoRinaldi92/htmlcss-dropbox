@@ -147,3 +147,9 @@ h1, h2, h3, h4, h5 {
 .button-opacity:hover {
     opacity: 70%;
 }
+
+.p-central {
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
