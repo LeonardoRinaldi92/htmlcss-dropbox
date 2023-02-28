@@ -74,6 +74,9 @@ h1, h2, h3, h4, h5 {
     color: rgb(83,83,83);
 }
 
+.fill-white {
+filter: invert(99%) sepia(3%) saturate(81%) hue-rotate(182deg) brightness(114%) contrast(100%);
+}
 .h-80 {
     height: 75px;
 }
@@ -151,5 +154,10 @@ h1, h2, h3, h4, h5 {
 .p-central {
 top: 50%;
 left: 50%;
-transform: translate(-50%, -50%);
+transform: translate(-45%, -50%);
+}
+
+.border-offset {
+    outline: solid 20px rgb(209,233,205);
+    outline-offset: -20px
 }
