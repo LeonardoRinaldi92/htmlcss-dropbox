@@ -74,6 +74,10 @@ h1, h2, h3, h4, h5 {
     color: rgb(83,83,83);
 }
 
+.h-80 {
+    height: 75px;
+}
+
 .off-set-80 {
     bottom: -80px;
 }

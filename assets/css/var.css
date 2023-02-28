@@ -13,7 +13,7 @@
 }
 
 .cntered {
-    vertical-align: middle
+ vertical-align:text-top;
 }
 .scroll-smooth {
     scroll-behavior: smooth;
