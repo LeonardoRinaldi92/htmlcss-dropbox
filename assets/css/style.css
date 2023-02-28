@@ -210,7 +210,9 @@ transform: translate(-45%, -50%);
 
 .text-appear:hover .rotate {
 transform: rotate(180deg);
-
 }
 
+.hover-white:hover {
+    color: white;
+}
 
