@@ -162,6 +162,11 @@ filter: invert(99%) sepia(3%) saturate(81%) hue-rotate(182deg) brightness(114%) 
     width: calc(100% / 3);
 }
 
+.col20 {
+    width: calc(100% / 5 - 20px);
+}
+
+
 .bord-1 {
     border: 1px solid rgb(223,223,225);
 }
