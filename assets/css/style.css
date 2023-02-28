@@ -46,6 +46,22 @@ h1, h2, h3, h4, h5 {
     background-color: rgb(180,208,231);
 }
 
+.background-light-green {
+    background-color: rgb(162,211,155);
+}
+
+.background-dark-red {
+    background-color: rgb(97,8,43);
+}
+
+.background-light-blue {
+    background-color: rgb(0,147,206);
+}
+
+.background-light-red {
+    background-color: rgb(255,28,28)
+}
+
 .txt-blu {
     color: blue;
 }
@@ -72,6 +88,9 @@ h1, h2, h3, h4, h5 {
 .pd-25-20 {
     padding: 25px 20px
 }
+.pd-20 {
+    padding: 20px;
+}
 
 .mr-top150 {
     margin-top: 150px;
@@ -79,6 +98,10 @@ h1, h2, h3, h4, h5 {
 
 .padd10 {
     padding: 10px 20px;
+}
+
+.padd-bot50 {
+    padding-bottom: 50%;
 }
 
 .h90vh {
@@ -91,6 +114,14 @@ h1, h2, h3, h4, h5 {
 
 .smallbox {
     width: calc(100%/3 - 20px);
+}
+
+.box-2 {
+    width: calc(100% / 2);
+}
+
+.box-3 {
+    width: calc(100% / 3);
 }
 
 .bord-1 {
