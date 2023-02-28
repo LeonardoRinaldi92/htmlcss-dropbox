@@ -204,15 +204,29 @@ transform: translate(-45%, -50%);
     outline-offset: -20px
 }
 
-.text-appear:hover .none{
+/* .text-appear:hover .none{
     display: block;
-}
+} */
 
 .text-appear:hover .rotate {
-transform: rotate(180deg);
-}
+    transform: rotate(180deg);
+    transition-duration: 1s;
+    }
 
 .hover-white:hover {
     color: white;
 }
 
+details > summary {
+    list-style: none;
+    cursor: pointer;
+}
+
+details > summary::-webkit-details-marker {
+    display: none;
+}
+
+a:hover {
+    font-size:larger;
+
+}
