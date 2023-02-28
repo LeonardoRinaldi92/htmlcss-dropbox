@@ -78,6 +78,10 @@ h1, h2, h3, h4, h5 {
     background-color: rgb(245,245,245);
 }
 
+.background-yellow {
+    background-color: rgb(255,216,48);
+}
+
 .txt-blu {
     color: blue;
 }
