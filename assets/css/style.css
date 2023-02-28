@@ -62,6 +62,10 @@ h1, h2, h3, h4, h5 {
     background-color: rgb(255,28,28)
 }
 
+.background-light-grey {
+    background-color: rgb(245,245,245);
+}
+
 .txt-blu {
     color: blue;
 }
@@ -101,6 +105,9 @@ filter: invert(99%) sepia(3%) saturate(81%) hue-rotate(182deg) brightness(114%) 
 
 .mr-top150 {
     margin-top: 150px;
+}
+.mr-top10perc {
+    margin-top: 10%;
 }
 
 .padd10 {
