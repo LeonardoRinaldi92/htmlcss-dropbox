@@ -228,7 +228,7 @@ details > summary::-webkit-details-marker {
 
 a:hover {
     font-size:larger;
-    text-transform:uppercase;
+    
 }
 
 input[type="radio"] {
