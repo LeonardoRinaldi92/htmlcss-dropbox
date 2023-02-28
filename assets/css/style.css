@@ -194,3 +194,14 @@ transform: translate(-45%, -50%);
     outline: solid 20px rgb(209,233,205);
     outline-offset: -20px
 }
+
+.text-appear:hover .none{
+    display: block;
+}
+
+.text-appear:hover .rotate {
+transform: rotate(180deg);
+
+}
+
+
