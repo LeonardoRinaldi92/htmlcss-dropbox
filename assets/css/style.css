@@ -160,7 +160,7 @@ filter: invert(99%) sepia(3%) saturate(81%) hue-rotate(182deg) brightness(114%) 
 
 .box-3 {
     width: calc(100% / 3);
-    height: calc(100vw /3);
+    aspect-ratio: 1;
 }
 
 
