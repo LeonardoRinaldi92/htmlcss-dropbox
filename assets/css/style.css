@@ -160,7 +160,9 @@ filter: invert(99%) sepia(3%) saturate(81%) hue-rotate(182deg) brightness(114%) 
 
 .box-3 {
     width: calc(100% / 3);
+    height: calc(100vw /3);
 }
+
 
 .col20 {
     width: calc(100% / 5 - 20px);
@@ -254,4 +256,8 @@ input[type="radio"] {
 input:checked {
     background-color: #ffffff;
     border: 0.35em solid rgb(79, 91, 255);
+}
+
+.scroll {
+    overflow: auto;
 }
